@@ -1,0 +1,13 @@
+# Chaves e ambientes virtuais
+.env
+venv/
+.venv/
+
+# Ficheiros temporários e áudios
+__pycache__/
+*.mp3
+*.wav
+*.txt
+
+# Configurações do VS Code
+.vscode/
